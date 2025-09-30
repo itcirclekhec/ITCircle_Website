@@ -174,7 +174,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🙏 Acknowledgments
 
 - **Khwopa Engineering College** for continuous support and encouragement
-- **Faculty Members** for guidance, mentorship, and inspiration
+<!-- - **Faculty Members** for guidance, mentorship, and inspiration -->
 - **Student Contributors** for dedication, hard work, and innovation
 - **Open Source Community** for tools, libraries, and endless inspiration
 
