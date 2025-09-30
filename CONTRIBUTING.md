@@ -518,11 +518,11 @@ Before submitting your contribution:
 
 ## 🌟 Success Stories
 
-> "Contributing to IT Circle helped me land my first internship!" - Alumni Student
+<!-- > "Contributing to IT Circle helped me land my first internship!" - Alumni Student -->
 
 > "I learned more about React and Django in 3 months of contributing than in 2 semesters of classes!" - Current Student
 
-> "The mentorship and code reviews here are incredible for skill development." - Faculty Member
+> "The mentorship and code reviews here are incredible for skill development." - Current Student
 
 ---
 
