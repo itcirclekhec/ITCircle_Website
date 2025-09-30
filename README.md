@@ -36,7 +36,7 @@
 ### 🚀 **Modern Tech Stack**
 - **Frontend**: Next.js 15 + TypeScript + Tailwind CSS
 - **Backend**: Django 5 + PostgreSQL + REST API
-- **Deployment**: Optimized for Vercel/Netlify + Railway/Heroku
+/*- **Deployment**: Optimized for Vercel/Netlify + Railway/Heroku*/
 
 ### 🎨 **Beautiful UI/UX**
 - Responsive design that works on all devices
