@@ -38,8 +38,8 @@ export default function ContactPage() {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Address",
-      value: "Khulna Engineering & Technology University, Khulna-9203, Bangladesh",
-      link: "https://maps.google.com",
+      value: "Khwopa Engineering College, Libali-8, Bhaktapur, Nepal",
+      link: "https://www.google.com/maps/place/Khwopa+Engineering+College/@27.6736,85.4297,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d27.6736!4d85.4297",
     },
     {
       icon: <Clock className="w-6 h-6" />,
@@ -274,7 +274,7 @@ export default function ContactPage() {
                 <GlassCard className="overflow-hidden">
                   <div className="relative h-80 bg-gradient-to-br from-primary/10 to-accent/10">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.7302905996!2d89.53904431495837!3d22.815774685055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff9071cb556515%3A0x5fa584202ea28ba7!2sKhulna%20University%20of%20Engineering%20%26%20Technology!5e0!3m2!1sen!2sbd!4v1234567890"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.4638!2d85.4297!3d27.6736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1a3fb6a33e0d%3A0x830d1b82ce5f1e9f!2sKhwopa%20Engineering%20College!5e0!3m2!1sen!2snp!4v1234567890"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}

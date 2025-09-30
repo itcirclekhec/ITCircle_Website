@@ -53,7 +53,7 @@ export function HeroSection() {
 
               <p className="text-xl text-muted-foreground leading-relaxed max-w-lg">
                 Empowering the next generation of tech leaders through hands-on workshops,
-                collaborative projects, and cutting-edge innovation at Khulna Engineering College.
+                collaborative projects, and cutting-edge innovation at Khwopa Engineering College, Libali, Bhaktapur, Nepal.
               </p>
             </div>
 

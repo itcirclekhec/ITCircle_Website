@@ -47,9 +47,9 @@ export function AboutSection() {
               Empowering Tomorrow's Tech Leaders
             </h2>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              KhEC IT Circle is more than just a club—it's a vibrant community of passionate tech enthusiasts,
+              KhEC IT Circle, established in 2025, is more than just a club—it's a vibrant community of passionate tech enthusiasts,
               innovators, and problem-solvers dedicated to advancing technology education and fostering
-              meaningful connections.
+              meaningful connections at Khwopa Engineering College, Libali, Bhaktapur, Nepal.
             </p>
           </div>
 
@@ -87,9 +87,9 @@ export function AboutSection() {
               </GlassCardHeader>
               <GlassCardContent className="p-0">
                 <p className="text-muted-foreground leading-relaxed">
-                  To be the premier technology community at Khulna Engineering College, recognized for our
-                  innovative projects, impactful events, and the success of our alumni in the tech industry.
-                  We envision a future where every student has the opportunity to excel in technology.
+                  To be the premier technology community at Khwopa Engineering College, recognized for our
+                  innovative projects, impactful events, and the success of our students in the tech industry.
+                  We envision a future where every student has the opportunity to excel in technology, starting with our AWS Fundamentals session and continuing with our Hacktoberfest 2025 contributions.
                 </p>
               </GlassCardContent>
             </GlassCard>

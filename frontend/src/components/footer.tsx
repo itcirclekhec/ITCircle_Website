@@ -80,7 +80,7 @@ export function Footer() {
 
             <p className="text-muted-foreground leading-relaxed max-w-md">
               Empowering the next generation of tech leaders through hands-on workshops,
-              collaborative projects, and cutting-edge innovation at Khulna Engineering College.
+              collaborative projects, and cutting-edge innovation at Khwopa Engineering College, Libali, Bhaktapur, Nepal.
             </p>
 
             <div className="flex space-x-4">

@@ -101,7 +101,7 @@ export function TestimonialsSection() {
               Ready to Join Our Community?
             </h3>
             <p className="text-muted-foreground mb-8">
-              Be part of a community that's shaping the future of technology at Khulna Engineering College.
+              Be part of a community that's shaping the future of technology at Khwopa Engineering College, Libali, Bhaktapur, Nepal.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="px-8 py-4 bg-gradient-to-r from-primary to-accent hover:from-primary/80 hover:to-accent/80 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 glow-primary">

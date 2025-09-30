@@ -1,6 +1,6 @@
 # KhEC IT Circle - Community Website
 
-A modern, full-stack web application for managing a tech community at Khulna Engineering College. Built with Next.js 15, Django 5, PostgreSQL, and featuring a beautiful dark-mode glassmorphism UI.
+A modern, full-stack web application for managing a tech community at Khwopa Engineering College, Libali, Bhaktapur, Nepal. Built with Next.js 15, Django 5, PostgreSQL, and featuring a beautiful dark-mode glassmorphism UI.
 
 ![Status](https://img.shields.io/badge/status-complete-success)
 ![Frontend](https://img.shields.io/badge/frontend-Next.js%2015-blue)
@@ -300,7 +300,7 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Khulna Engineering College
+- Khwopa Engineering College
 - Open source community
 - All contributors
 

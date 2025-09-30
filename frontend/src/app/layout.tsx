@@ -6,8 +6,8 @@ import { AuthProvider } from "@/lib/auth-context";
 
 export const metadata: Metadata = {
   title: "KhEC IT Circle - Where innovation Meets Community",
-  description: "Empowering the next generation of tech leaders through hands-on workshops, collaborative projects, and cutting-edge innovation at Khulna Engineering College.",
-  keywords: ["KhEC", "IT Circle", "Khulna Engineering College", "technology", "programming", "workshops", "hackathon", "innovation"],
+  description: "Empowering the next generation of tech leaders through hands-on workshops, collaborative projects, and cutting-edge innovation at Khwopa Engineering College, Libali, Bhaktapur, Nepal.",
+  keywords: ["KhEC", "IT Circle", "Khwopa Engineering College", "Libali", "Bhaktapur", "Nepal", "technology", "programming", "workshops", "hackathon", "innovation"],
   authors: [{ name: "KhEC IT Circle" }],
   viewport: "width=device-width, initial-scale=1",
 };
