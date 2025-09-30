@@ -58,10 +58,10 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting us through any of these channels:
 
-**📧 Email**: conduct@itcircle.khec.edu.np
-**💬 Faculty Advisor**: [Faculty Contact Information]
+**📧 Email**: itcircle@khec.edu.np
+<!-- **💬 Faculty Advisor**: [Faculty Contact Information]
 **🏢 IT Circle Office**: Khwopa Engineering College, Computer Lab
-**📱 Phone**: [Contact Phone Number]
+**📱 Phone**: [Contact Phone Number] -->
 
 All reports will be handled with **confidentiality** and **sensitivity**. We are committed to protecting the privacy of everyone involved in a report.
 
@@ -118,14 +118,13 @@ We believe that by fostering a welcoming and inclusive community, we create the 
 ## 📞 Contact Information
 
 ### Leadership Contacts
-- **Faculty Advisor**: [Name and Contact Information]
-- **Student President**: [Name and Contact Information]
-- **Technical Lead**: [Name and Contact Information]
+- **Student President**: [https://github.com/AshutoshDhungana]
+<! -- - **Technical Lead**: [Name and Contact Information] -->
 
 ### Emergency Contacts
-- **Campus Security**: [Phone Number]
+<!-- **Campus Security**: [Phone Number]
 - **College Administration**: [Contact Information]
-- **IT Department**: [Contact Information]
+- **IT Department**: [Contact Information] -->
 
 ### Anonymous Reporting
 For sensitive matters, you may use anonymous reporting through:
